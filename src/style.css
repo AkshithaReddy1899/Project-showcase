@@ -442,6 +442,7 @@ footer:hover {
   }
 
   .icon__list {
-    justify-content: center;
+    justify-content: start;
+    align-items: flex-start;
   }
 }/*# sourceMappingURL=style.css.map */
