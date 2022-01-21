@@ -16,6 +16,8 @@ This project uses the following open source packages:
 
 - HTML
 - CSS
+- SCSS
+- JavaScript
 
 # Deployed using
 
