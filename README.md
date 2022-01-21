@@ -9,7 +9,6 @@ This project is built to recreate RedSquareAgency's website to display my projec
 
 # Screenshot
 
-
 ![Akshitha-Reddy](https://user-images.githubusercontent.com/70577783/150537507-db1e0c08-deeb-447f-8c15-dd941b252bff.png)
 
 # Built with
@@ -47,14 +46,7 @@ Show your support Give a ⭐️ if you like this project!
 
 # Acknowledgments
 
-(Red Square Agency)[https://www.redsquareagency.com/]
+[Red Square Agency](https://www.redsquareagency.com/)
 
 # 📝 License
 This project is MIT licensed.
-
-
-# Project-showcase
-
-
-
-View live: https://akshithareddy1899.github.io/Project-showcase/
